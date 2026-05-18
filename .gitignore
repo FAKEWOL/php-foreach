@@ -1,0 +1,25 @@
+# PHP
+*.php.swp
+*.log
+.phpintel/
+
+# Dependency Directories
+vendor/
+
+# IDE/Editor Settings
+.idea/
+.vscode/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Local Configuration
+.env
+.env.local
+.env.*.local
